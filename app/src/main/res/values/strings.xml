@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mywebapp</string>
+    <string name="default_notification_channel_id">488430898991</string>
+</resources>
